@@ -1,0 +1,2 @@
+bug: pembuatan path selalu gagal
+fix:buat direktory dari cmd dengan mengetikan perintah mkdir c:\contoh\

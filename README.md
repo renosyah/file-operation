@@ -1,1 +1,1 @@
-# membuat file mengisi file ,dan meghapus file
+# membuat file, mengisi file ,dan meghapus file
